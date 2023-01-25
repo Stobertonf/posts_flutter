@@ -10,7 +10,7 @@
 
 ## Escopo
 
-📚 Neste curso, eu vou ter a oportunidade de aprender / revisar tipo de dados, operadores lógicos, lasos de repetição e etc.
+📚 Neste curso, eu vou ter a oportunidade de aprender / revisar tipo de dados, operadores lógicos, lasos de repetição e etc para criar um app e posts.
 
 ## Foco
 
