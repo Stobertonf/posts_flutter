@@ -1,16 +1,25 @@
 # posts_flutter
 
-A new Flutter project.
+## Seja bem vindo
 
-## Getting Started
+👋 Olá, seja bem vindo.
 
-This project is a starting point for a Flutter application.
+## Curso
 
-A few resources to get you started if this is your first Flutter project:
+💻 Projeto da carreira Desenvolvedor Mobile FLutter: Consumindo APIs Rest no Flutter do professor André Baltieri (Balta) na plataforma balta.io.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Escopo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📚 Neste curso, eu vou ter a oportunidade de aprender / revisar tipo de dados, operadores lógicos, lasos de repetição e etc.
+
+## Foco
+
+😊 O curso é focado na Lógica de programação com Dart, para aprender o melhor framework do mercado, que é o Flutter.
+
+## Prazo
+
+⚡ Este projeto foi finalizado no dia 25/01/2023. Esse curso foi lançado após eu iniciar a carreira Desenvolvedor Mobile FLutter na plataforma, sendo assim, achei muito interessante fazer o mesmo.
+
+## Imagens
+
+:camera: Neste momento, eu não possuo imagens, no entanto, em breve irei disponibilizar.
