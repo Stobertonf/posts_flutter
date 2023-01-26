@@ -18,7 +18,7 @@
 
 ## Prazo
 
-⚡ Este projeto foi finalizado no dia 25/01/2023. Esse curso foi lançado após eu iniciar a carreira Desenvolvedor Mobile FLutter na plataforma, sendo assim, achei muito interessante fazer o mesmo.
+⚡ Este projeto foi inicializado no dia 25/01/2023. Esse curso foi lançado após eu iniciar a carreira Desenvolvedor Mobile Flutter na plataforma, sendo assim, achei muito interessante fazer o mesmo.
 
 ## Imagens
 
