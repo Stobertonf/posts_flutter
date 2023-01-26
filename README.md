@@ -6,7 +6,7 @@
 
 ## Curso
 
-💻 Projeto da carreira Desenvolvedor Mobile FLutter: Consumindo APIs Rest no Flutter do professor André Baltieri (Balta) na plataforma balta.io.
+💻 Projeto da carreira Desenvolvedor Mobile Flutter: Consumindo APis Rest no Flutter do professor André Baltieri (Balta) na plataforma balta.io.
 
 ## Escopo
 
